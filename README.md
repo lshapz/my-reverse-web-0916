@@ -1,5 +1,5 @@
 ---
-tags: ruby, arrays, algorithms
+tags: ruby, arrays, algorithms, cs
 language: ruby, rb
 resources: 0
 ---
