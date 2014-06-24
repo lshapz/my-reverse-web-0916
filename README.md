@@ -1,6 +1,6 @@
 ---
-tags: ruby, arrays, algorithms, todo
-language: ruby, rb
+tags: ruby, arrays, algorithms, cs, todo
+language: ruby
 resources: 0
 ---
 
