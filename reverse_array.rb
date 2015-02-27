@@ -1,5 +1,5 @@
 class Array
-  def reverse_array
+  def my_reverse
     array = self
     first_position = 0
     last_position = array.length - 1
