@@ -4,13 +4,13 @@ describe '#my_reverse' do
     my_array = ["turmeric", "peppermint", "sage", "rosemary"]
     expect(my_array).to_not receive(:reverse)
     expect(my_array).to_not receive(:reverse!)
-    expect(my_array.my_reverse).to eq(["rosemary", "sage", "peppermint", "turmeric"])
+    my_array.my_reverse
   end
 
   it 'does not make a new array (reverses in place)' do
     my_array = ["turmeric", "peppermint", "sage", "rosemary"]
     expect(Array).to_not receive(:new)
-    expect(my_array.my_reverse).to eq(["rosemary", "sage", "peppermint", "turmeric"])
+    my_array.my_reverse
   end
 
   it 'reverses an array of 5 elements' do
