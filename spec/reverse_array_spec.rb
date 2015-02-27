@@ -9,7 +9,7 @@ describe '#my_reverse' do
 
   it 'does not make a new array (reverses in place)' do
     my_array = ["turmeric", "peppermint", "sage", "rosemary"]
-    expect_any_instance_of(Array).to_not receive(:initialize)
+    expect(Array).to_not receive(:new)
     expect(my_array.my_reverse).to eq(["rosemary", "sage", "peppermint", "turmeric"])
   end
 
