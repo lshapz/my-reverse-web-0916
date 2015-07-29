@@ -1,8 +1,4 @@
----
-tags: ruby, arrays, algorithms, cs, todo
-language: ruby
-resources: 0
----
+
 
 ## Reverse an Array in Place
 
