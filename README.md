@@ -16,3 +16,5 @@ Let's build our own reverse method that does just that. The bulk of this exercis
 Psuedo code first, writing out each step of what's going on before you code. Use variables liberally, keeping in mind the value of a variable in each stage of your iterating. Don't worry about making it ugly so long as it makes sense to you; refactor after.
 
 Build your method in `reverse_array.rb` and get the tests to pass.
+
+<a href='https://learn.co/lessons/my-reverse' data-visibility='hidden'>View this lesson on Learn.co</a>
