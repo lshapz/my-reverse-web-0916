@@ -17,4 +17,4 @@ Psuedo code first, writing out each step of what's going on before you code. Use
 
 Build your method in `reverse_array.rb` and get the tests to pass.
 
-<a href='https://learn.co/lessons/my-reverse' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/my-reverse' title='Reverse an Array in Place'>Reverse an Array in Place</a> on Learn.co and start learning to code for free.</p>
